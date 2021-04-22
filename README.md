@@ -2,8 +2,10 @@
 Project made in order to practice and simply visualise PID control.
 
 Controller: Arduino NANO
+
 Sensor: HC-SR04 - Ultrasonic Sensor
-Servo: SG 90
+
+Servo: MG995
 
 Goal:
 Balannce ball in the middle of the gutter. Sonic sensor measure the distance to the ball in order to determine it's position. Servo is used to change the gutter angle so that ball can move back and forth 
